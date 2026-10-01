@@ -1,6 +1,6 @@
 # UC-VLM
 
-Consistency-driven learning for AI-generated image detection with vision-language large models.
+[ECCV 2026] Consistency-driven learning for AI-generated image detection with vision-language large models.
 
 UC-VLM adapts a general-purpose VLLM to distinguish authentic photographs from AI-generated images using only binary authenticity labels. The same `authentic/generated` supervision is reused across three coordinated stages:
 
